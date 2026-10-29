@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif
+    ;
+}
+.box1{
+    margin-left: 200px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.box2{
+    display: flex;
+    gap: 31px;
+    font-size: 18px;
+    justify-content: center;
+    margin-top: -32px;
+    margin-left: 300px;
+}
+.box2{
+    color: rgb(68, 54, 54);
+    transition: 0.3s;
+    cursor: pointer;
+}
+.Img2{
+    width: 100%;
+    cursor: pointer;
+}
+.box3{
+    margin-top: 50px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.xonalar {
+  display: flex;
+  width: 100%;
+  max-width: 646px;
+  height: 56px;
+  border: 1px solid #d9b18b;
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.xona {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  font-weight: 600;
+  color: #30343b;
+  cursor: pointer;
+  transition: 0.2s;
+  border-radius: 13px;
+}
+
+.xona:hover {
+  background-color: #f7eee5;
+}
+
+.xona.faol {
+  background-color: #cda274;
+  color: white;
+}
+
+.xona.faol:hover {
+  background-color: #c9a071;
+}
+.xonalar{
+    margin-left: 26%;
+    margin-top: 200px;
+}
+.Img3{
+    width: 350px;
+
+}
+.box4{
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.Img4{
+  width: 350px;
+}
+.box5{
+  margin-left: 750px;
+  margin-top: -516px;
+}
+.i1{
+  width: 350px;
+  cursor: pointer;
+}
+.box4{
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.i2{
+  width: 350px;
+  cursor: pointer;
+}
+.box5{
+  margin-left: 750px;
+}
+.i4{
+
+}
+.box6{
+  margin-left: 750px;
+}
+.aq1{
+  font-size: 24px;
+  color: black;
+  cursor: pointer;
+}
+.aq2{
+  font-size: 22px;
+  color: rgb(78, 78, 78);
+  cursor: pointer;
+}
+.box7{
+  margin-top: 140px;
+  margin-left: 300px;
+}
+.lola{
+  width: 350px;
+  cursor: pointer;
+}
+.box8{
+    margin-left: 750px;
+    margin-top: -160px;
+}
+.ll22{
+  color: black;
+  font-size: 24px;
+  cursor: pointer;
+}
+.ll44{
+  font-size: 22px;
+  color: rgb(78, 78, 78);
+  cursor: pointer;
+}
+.box9{
+  margin-left: 750px;
+  margin-top: 20px;
+}
+.lol{
+  width: 350px;
+}
+.box10{
+  margin-left: 300px;
+  margin-top: -387px;
+}
+.mom{
+  font-size: 24px;
+  color: black;
+  cursor: pointer;
+}
+pap{
+  font-size: 22px;
+  color: rgb(68, 54, 54);
+  cursor: pointer;
+}
+.box11{
+  margin-left: 300px;
+  margin-top: 20px;
+}
+.kok{
+  width: 350px;
+  cursor: pointer;
+}
+.box12{
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.op1{
+  font-size: 24px;
+  color: black;
+  cursor: pointer;
+}
+.op2{
+  font-size: 22px;
+  color: rgb(78, 78, 78);
+  cursor: pointer;
+}
+.box13{
+  margin-left: 300px;
+  margin-top: 20px;
+}
+.non{
+  width: 350px;
+  cursor: pointer;
+}
+.box14{
+  margin-left: 750px;
+  margin-top: -590px;
+}
+.ehh1{
+  font-size: 24px;
+  color: black;
+  cursor: pointer;
+}
+ehh2{
+  font-size: 22px;
+  color: black;
+  cursor: pointer;
+}
+.box15{
+  margin-left: 750px;
+  margin-top: 20px;
+}
+.box16{
+  margin-left: 610px;
+  margin-top: 150px;
+}
+.kol1{
+  display: flex;
+  gap: 30px;
+}
+.you1{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: none;
+  background-color: rgb(243, 241, 205);
+  font-size: 22px;
+  cursor: pointer;
+}
+.you{
+    width: 70px;
+    font-size: 22px;
+    cursor: pointer;
+  height: 70px;
+  border-radius: 50%;
+  border: solid 1px rgb(243, 241, 205);
+  background-color: white
+  
+}
+.kol1{
+  justify-content: center;
+  margin-top: 50px;
+}
+.hohe{
+  margin-left: 200px;
+  margin-top: 200px;
+}
+.box17{
+  display: flex;
+  gap: 40px;
+  margin-left: 650px;
+  margin-top: -140px;
+}
